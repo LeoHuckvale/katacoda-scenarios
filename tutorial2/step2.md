@@ -98,7 +98,7 @@ Using this knowledge try and look back at the help file:
 
 `h`{{execute}}
 
-and try out other `MOVEMENT` commands.
+and try out other `MOVING` commands.
 
 ________
 **Tasks**
