@@ -53,8 +53,8 @@ f ^F ^V SPACE   *   Forward one window (or N lines)
 b ^B ESC-V      *   Backward on window (or N lines)
 ```
 
-Let's interpret these together and try them out on the ada lovelace file.  
-Click `q` to **q**uit the help so we can try these commands out.
+Let's interpret these together and try them out on the `ada_lovelace_bio.txt`
+file. Click `q` to **q**uit the help so we can try these commands out.
 
 Now what do these commands do?  These commands allow you to move one line 
 forward (down) or backward (up) in a file. Let's try that out:
